@@ -5,3 +5,4 @@ list of your deadly skills:
   * JavaScript
   * Ruby
   * Boostrap
+  * Killing history using git rebase
